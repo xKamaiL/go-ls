@@ -1,4 +1,4 @@
-# go-ls
+# ls
 
 implemented ls command in golang
 
